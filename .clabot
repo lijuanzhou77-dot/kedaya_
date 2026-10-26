@@ -1,0 +1,7 @@
+{
+  "contributors": [
+    "lijuanzhou77-dot"
+  ],
+  "message": "{{usersWithoutCLA}} 尚未列入本仓库的 CLA 确认名单。请联系仓库维护者 @lijuanzhou77-dot 确认贡献要求；维护者确认并更新名单后，可评论 `@cla-bot check` 重新检查。",
+  "label": "cla-signed"
+}
